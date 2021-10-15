@@ -10,6 +10,9 @@ Get delivery timeslines for different parts of the project across different skil
 
 Find out who the leads are from different disciplines
 
+Find out healthy team dynamic metrics:
+high levels of trust, psychological safety, healthy conflict etc
+
 ## What are my responsibilities?
 
 * ensuring that they grow as engineers
