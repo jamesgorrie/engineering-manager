@@ -1,4 +1,4 @@
-Check what my product resopnsibilities are - with product and team to not overstep on places others want to progress
+Check what my product responsibilities are - with product and team to not overstep on places others want to progress
 
 Have a checklist or set of tests of what a healthy, high-performing team looks like, check against it every week
 
@@ -6,7 +6,9 @@ Pair with people to get to understand the domain better
 
 1-1s with everyone soon as - understand learning styles, objective setting etc
 
+Get delivery timeslines for different parts of the project across different skillsets
 
+Find out who the leads are from different disciplines
 
 ## What are my responsibilities?
 
