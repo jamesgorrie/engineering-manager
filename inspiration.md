@@ -13,3 +13,5 @@ https://charity.wtf/
 https://stripe.com/blog/engineering
 
 https://app.productstash.io/monzo-usa-public-roadmap
+
+https://monzo.com/blog/an-engineering-managers-guide-to-the-one-to-one
