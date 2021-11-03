@@ -13,6 +13,10 @@ Find out who the leads are from different disciplines
 Find out healthy team dynamic metrics:
 high levels of trust, psychological safety, healthy conflict etc
 
+Internal vs external interviewing
+
+Promotion process
+
 ## What are my responsibilities?
 
 * ensuring that they grow as engineers
