@@ -17,6 +17,8 @@ Internal vs external interviewing
 
 Promotion process
 
+Setup meetings to be allowed to take learnings from a sprint into the next on. e.g. peer review => retro => planning
+
 ## What are my responsibilities?
 
 * ensuring that they grow as engineers
