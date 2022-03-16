@@ -23,7 +23,7 @@ Setup meetings to be allowed to take learnings from a sprint into the next on. e
 
 * ensuring that they grow as engineers
 * do valuable work
-* find satisfaction in their career at Canonical
+* find satisfaction in their career
 * collaborate with other engineering managers
 
 
